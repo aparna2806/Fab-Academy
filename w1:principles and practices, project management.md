@@ -14,4 +14,8 @@
 
  -Krzysztof: his way of structuring and organising every element. It makes it pleasant to browse through the different weekly tasks and gives it a more lively touch.
 
- -Jana: I really like about her way of documenting is that everything makes sense and every little thing is coherent with each other. She focuses more on reflection than images. It gave very artistic vibe.
+ -Sara: I really like about her way of documenting is that everything makes sense and every little thing is coherent with each other. She focuses more on reflection than images. It gave very artistic vibe.
+
+ <p align="center">
+ <img title="miro" alt="brainstorm" src="/images/sairawebsite.jpg" width="560"/>
+ </p>

@@ -1,6 +1,6 @@
 #week-2
 <h5>february 9 </h5>
-<h4> Computer Aided Design and Cutting: </h4>
+<h3> Computer Aided Design and Cutting: </h3>
 
 <li> I'm pretty excited for this week as I always wanted to get better at making shapes and laser cutting them. I used Fusion before in my bachelors but never put in efforts to actually learn it well. So this time I am going to give my best and also not forget to have fun whilst the process of learning;) </li>
 
