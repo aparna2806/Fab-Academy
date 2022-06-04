@@ -10,7 +10,6 @@
 <li> check joineries at https://lasercutlikeaboss.weebly.com/
 
 <h3>Concept:</h3>
-<p align="center">
 <img title="miro" alt="concept" src="/images/3.png" width="560"/>
 </p>
 
@@ -22,7 +21,7 @@
 <li>For this assignment specifically, we also were supposed to work with parametric design systems, which gives us the option to change specific measurements and dimensions in our designs without having to repeat the whole process as a whole. This system would automatically adapt our design to the dimensions we input at our convenience.
 
 <li>I am still struggling a little bit with Rhino, but destined to learn to use the software fully because I like the workflow it presents. The file I prepared:
-<p align="center">
+
 <img title="miro" alt="file" src="/images/4.png" width="560"/>
 </p>
 
