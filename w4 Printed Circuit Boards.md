@@ -18,5 +18,5 @@ I watched some soldering videos as the challenge for this week was comparatively
 <h3>Learnings:</h3>
 <li> I needed Julia's help to hold the wire for me in the start. And later we were watching a video on soldering, we realised we can tape the wire down and work single handedly.
 <li> I could have tested with multimeter and power supply very quickly.
-<img title="miro" alt="file" src="/images/5.png" width="560"/>
+<img title="miro" alt="file" src="/images/elec1.jpeg" width="560"/>
 </p>

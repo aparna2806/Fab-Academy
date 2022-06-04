@@ -22,7 +22,9 @@
 
 <li>I am still struggling a little bit with Rhino, but destined to learn to use the software fully because I like the workflow it presents. The file I prepared:
 
-<img title="miro" alt="file" src="/images/4.png" width="560"/>
+<img title="miro" alt="file" src="/images/laser1.jpg" width="560"/>
+<img title="miro" alt="file" src="/images/laser2.jpg" width="560"/>
+<img title="miro" alt="file" src="/images/laser3.jpg" width="560"/>
 </p>
 
 <li> The settings of cutting mdf 3mm:
