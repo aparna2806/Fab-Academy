@@ -9,7 +9,7 @@
 
 ## Project description
 <p>Theme:A series of digital narratives that provoke the user to look at the world through the lens of parasitic relationships and further investigate the characteristics that define our role and behaviours as a parasite. I worked on miro gathering inspiration and read some more reading material.</p>
-<img title="miro" alt="brainstorm" src="/images/brainstorming.PNG" width="560"/>
+<img title="miro" alt="brainstorm" src="/images/brainstorming.png" width="560"/>
 
 ## References
 - [Everything is going to be ok](https://alienmelon.itch.io/everything-is-going-to-be-ok)
@@ -56,4 +56,4 @@
 ## Sketches
 - In process prototypes
 <img title="miro" alt="brainstorm" src="/images/3thesis.png" width="560"/>
-<img title="miro" alt="brainstorm" src="/images4/thesis.png" width="560"/>
+<img title="miro" alt="brainstorm" src="/images/4thesis.png" width="560"/>
