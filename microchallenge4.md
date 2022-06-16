@@ -22,7 +22,8 @@
 
 ## Concept Development
 - I referred to the visuals done by Alien Melon for her project- Everything is going to be okay *inspiration*.
-![alien melon inspo]<img title="miro" alt="brainstorm" src="/images/2.png" width="560"/>
+<p align="center">
+<img title="miro" alt="brainstorm" src="/images/2.png" width="560"/>
 
 ## In Process
 (Images/sprite.gif)
