@@ -1,6 +1,6 @@
 #microchallenge4
 <h5> Challenge 4 </h5>
-<p> This last challenge I decided to work on my final project- Epoch of the Greedy Parasite. The aim is to learn to code my ideas for the fest that's coming up in few days. I got immense support and guidance from Jeremy for this challenge.</p>
+<p> This last challenge George and I decided to work together. We have come together for different reasons- I wanted to focus on the final project that will be part of mdefest and George was interested in learning p5js. The aim is to learn to code the ideas we are having conceptually and translate it to code. I got immense support and guidance from Jeremy for this challenge.</p>
 
 ## What you will find in this repo
 1. Documentation for micro challenge 04
