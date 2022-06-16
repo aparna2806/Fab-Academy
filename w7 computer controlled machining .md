@@ -27,3 +27,9 @@
 
 <p align="center">
 <img title="miro" alt="brainstorm" src="/images/14.png" width="560"/>
+
+
+<li> But for now I'll use the CNC week for cutting it for microchallenge 2 where Angel, Jose and I wish to make a base out of wood and place objects on them.
+<img title="miro" alt="brainstorm" src="/images/cnc1.jpeg" width="560"/>
+<img title="miro" alt="brainstorm" src="/images/cnc2.jpeg" width="560"/>
+<img title="miro" alt="brainstorm" src="/images/cnc3.jpeg" width="560"/>
