@@ -22,9 +22,9 @@
 
 ## Concept Development
 - I referred to the visuals done by Alien Melon for her project- Everything is going to be okay *inspiration*.
-![alien melon inspo](Images/2.png)
+![alien melon inspo]<img title="miro" alt="brainstorm" src="/images/2.png" width="560"/>
 
-##In Process
+## In Process
 (Images/sprite.gif)
 - The concept of sprites and getting each image in a sequence and moving the x position of the image.
 - An empty array created for images
@@ -53,6 +53,6 @@
 
 
 ## Sketches
-- In process prototypes 
+- In process prototypes
 ![cover page](Images/3thesis.png)
 ![introduction](Images/4thesis.png)
