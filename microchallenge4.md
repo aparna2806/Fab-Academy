@@ -26,15 +26,15 @@
 <img title="miro" alt="brainstorm" src="/images/2.PNG" width="560"/>
 
 ## In Process
-(Images/sprite.gif)
 - The concept of sprites and getting each image in a sequence and moving the x position of the image.
+<img title="miro" alt="brainstorm" src="/images/sprite.gif" width="560"/>
 - An empty array created for images
 - Using the push method to add images into the array
 - Making the sketch move in the x direction
 
-(Images/sprite2.gif)
-- Using setTimeout() and setInterval() to create a delay for animation.
 
+- Using setTimeout() and setInterval() to create a delay for animation.
+<img title="miro" alt="brainstorm" src="/images/sprite2.gif" width="560"/>
 - Example of the syntax:
 //declaring setTimeout
 <p>setTimeout(textDis,18000);</p>
