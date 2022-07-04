@@ -1,0 +1,25 @@
+#week-8
+<h3> Embedded Programming </h3>
+Assignment: Use your programmer (HUZZAH32, ESP32 Feather) to program a circuit with a “led and a bottom” to do something
+Assignment: I coded an LED light to turn on and off depending on the basis of potentiometer.
+
+The arduino code below:
+for setting up:
+-LED_PIN 11
+-POTENTIOMETER_PIN A1
+we need to initialize the mode for the pins we want to use:
+void setup()
+{
+  pinMode(11, OUTPUT);
+}
+we can start to control the brightness of the LED with what we read from the potentiometer:
+void loop()
+{
+  int potentiometerValue = analogRead(A1);
+}
+using Arduino map() function which can put a number into a different range.
+  int brightness = map(potentiometerValue, 0, 1023, 0, 255);
+}
+
+<p align="center">
+<img title="miro" alt="brainstorm" src="/images/13.MOV" width="560"/>
