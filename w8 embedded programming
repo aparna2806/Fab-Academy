@@ -21,6 +21,4 @@ using Arduino map() function which can put a number into a different range.
   int brightness = map(potentiometerValue, 0, 1023, 0, 255);
 }
 
-<p align="center">
-<img title="miro" alt="brainstorm" src="/images/13.mp4" width="560"/>
-</p>
+video can be found here - https://drive.google.com/file/d/1hSKlAS_nKLKWMcwf_82Jps-esQRxoBUt/view?usp=sharing
