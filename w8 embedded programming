@@ -1,7 +1,7 @@
 #week-8
 <h3> Embedded Programming </h3>
 Assignment: Use your programmer (HUZZAH32, ESP32 Feather) to program a circuit with a “led and another component” to do something
-Assignment: I coded an LED light to turn on and off depending on the basis of potentiometer.
+Aim: To coded an LED light to turn on and off depending on the basis of potentiometer. This will be programmed with the arduino C++ language, using Arduino IDE, for our ESP32 Feather board.
 
 The arduino code below:
 for setting up:
@@ -17,7 +17,7 @@ void loop()
 {
   int potentiometerValue = analogRead(A1);
 }
-using Arduino map() function which can put a number into a different range.
+Using Arduino map() function which can put a number into a different range.
   int brightness = map(potentiometerValue, 0, 1023, 0, 255);
 }
 
