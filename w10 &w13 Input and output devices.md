@@ -4,7 +4,7 @@
 <h3> Task </h3>
 Allowing communication between two components on a pcb or breadbord or rasberry pi. We have to make a circuit where there is back and forth information transfer about the state of the button (digital) the potentiometer(analog) It is time to fabricate it ( finish the design - mill it - solder it).
 
-<h3>Milling Process:
+<h3>Milling Process:</h3>
 <li>The first time when we cut Dafni was around to help. But we didn't know that the image was horizontal and we placed the plate vertically. For this reason, we had to repeat it.
 <li>We cross chexcked again if all our images were of the same length and width when we convereted them in imkscape.
 <h3>Learnings:
