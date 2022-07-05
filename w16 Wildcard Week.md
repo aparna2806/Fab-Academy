@@ -20,13 +20,15 @@ Sealing Previous values-
 <li>Frequency: 1000 hz
 <li>z offset: 10
 
+
 <p align="center">
-<img title="miro" alt="brainstorm" src="/images/17.png" width="560"/>
+<img title="miro" alt="brainstorm" src="/images/13.jpeg" width="560"/>
+
 
 <li>I gave an offset of 0.5m between each seal layer in the rhino laser cut file (blue) and then 0.8m for the the cut layer (red). The order was first we let the seal layer and then the cut layer run.
 
 <p align="center">
-<img title="miro" alt="brainstorm" src="/images/22.png" width="560"/>
+<img title="miro" alt="brainstorm" src="/images/17.jpeg" width="560"/>
 
 <p align="center">
-<img title="miro" alt="brainstorm" src="/images/18.png" width="560"/>
+<img title="miro" alt="brainstorm" src="/images/18.jpeg" width="560"/>
