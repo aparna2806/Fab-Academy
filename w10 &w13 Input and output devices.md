@@ -25,3 +25,4 @@ Allowing communication between two components on a pcb or breadbord or rasberry 
 <img title="miro" alt="brainstorm" src="/images/22.png" width="560"/>
 <img title="miro" alt="brainstorm" src="/images/21.png" width="560"/>
 <img title="miro" alt="brainstorm" src="/images/23.png" width="560"/>
+<img title="miro" alt="brainstorm" src="/images/mill.png" width="560"/>
